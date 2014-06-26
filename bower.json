@@ -7,9 +7,8 @@
     ],
     "description": "Trafford Council's take on Skeleton CSS grid",
     "main": [
-      "stylesheets/base.css",
       "stylesheets/skeleton.css",
-      "stylesheets/layout."],
+      "stylesheets/layout.css"],
     "keywords": [
         "css",
         "responsive"
