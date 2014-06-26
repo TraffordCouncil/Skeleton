@@ -1,0 +1,24 @@
+{
+    "name": "trafford-council-skeleton",
+    "version": "0.1.0",
+    "homepage": "https://github.com/TraffordCouncil/Skeleton",
+    "authors": [
+        "Jeremy Page"
+    ],
+    "description": "Trafford Council's take on Skeleton CSS grid",
+    "main": [
+      "skeleton.css",
+      "layout.css"],
+    "keywords": [
+        "css",
+        "responsive"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
