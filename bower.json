@@ -1,15 +1,14 @@
 {
     "name": "trafford-council-skeleton",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "homepage": "https://github.com/TraffordCouncil/Skeleton",
     "authors": [
         "Jeremy Page"
     ],
     "description": "Trafford Council's take on Skeleton CSS grid",
     "main": [
-      "stylesheets/base.css",
-      "stylesheets/skeleton.css",
-      "stylesheets/layout."],
+      "skeleton.css",
+      "layout.css"],
     "keywords": [
         "css",
         "responsive"
